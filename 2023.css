@@ -184,7 +184,7 @@ video{
     background-color: #f0ede5;
     justify-content: center;
     text-align: center;
-    height: 2500px;
+    height:fit-content;
     margin-top: 40px;
     padding-top: 10px;
   }
